@@ -1,0 +1,17 @@
+{
+    "projectName": "HasuraNext",
+    "version": "2.0",
+    "frontend": "javascript",
+    "javascript": {
+        "framework": "react",
+        "config": {
+            "SourceDir": "app",
+            "DistributionDir": ".next",
+            "BuildCommand": "next build",
+            "StartCommand": "next start"
+        }
+    },
+    "providers": [
+        "awscloudformation"
+    ]
+}

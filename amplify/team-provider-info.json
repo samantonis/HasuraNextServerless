@@ -1,0 +1,19 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "hasuranext-dev-20190520221910-authRole",
+            "UnauthRoleArn": "arn:aws:iam::453100484677:role/hasuranext-dev-20190520221910-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::453100484677:role/hasuranext-dev-20190520221910-authRole",
+            "Region": "eu-west-1",
+            "DeploymentBucketName": "hasuranext-dev-20190520221910-deployment",
+            "UnauthRoleName": "hasuranext-dev-20190520221910-unauthRole",
+            "StackName": "hasuranext-dev-20190520221910",
+            "StackId": "arn:aws:cloudformation:eu-west-1:453100484677:stack/hasuranext-dev-20190520221910/875bb7e0-7b3c-11e9-9e31-0a0c5b3ce4f4"
+        },
+        "categories": {
+            "auth": {
+                "cognito46730c5c": {}
+            }
+        }
+    }
+}
