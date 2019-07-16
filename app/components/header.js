@@ -4,6 +4,7 @@ import gql from "graphql-tag";
 
 const GET_USER = gql`
   query {
+    username @client
     email @client
   }
 `;
@@ -39,7 +40,7 @@ const Header = () => (
               {data &&
                 data.email && (
                   <li>
-                    <button>logout {data.email}</button>
+                    <button>logout {data.username}</button>
                   </li>
                 )}
             </ul>

@@ -1,3 +1,4 @@
+import Router from 'next/router'
 import { Component } from "react";
 import { Auth } from "aws-amplify";
 import Layout from "../components/layout";
@@ -35,14 +36,8 @@ class Signup extends Component {
         phone_number
       }
     })
-      .then(() => console.log("successful sign up!"))
+      .then(() =>  Router.push("/verify"))
       .catch(err => console.log("error signing up: ", err));
-  };
-
-  confirmSignUp = () => {
-    Auth.confirmSignUp(this.state.username, this.state.authCode)
-      .then(console.log("successful confirm sign up!"))
-      .catch(err => console.log("error confirming signing up: ", err));
   };
 
   render() {
@@ -65,12 +60,7 @@ class Signup extends Component {
           placeholder="Phone Number"
           onChange={evt => this.onChange("phone_number", evt.target.value)}
         />
-        <input
-          placeholder="Authentication Code"
-          onChange={evt => this.onChange("authCode", evt.target.value)}
-        />
         <div>
-          <button onClick={this.confirmSignUp}>Confirm Sign Up</button>
           <button onClick={this.signUp}>Sign Up</button>
         </div>
       </Layout>

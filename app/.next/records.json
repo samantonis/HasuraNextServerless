@@ -1,0 +1,37 @@
+{
+  "modules": {
+    "byIdentifier": {
+      "ignored node_modules/aws-sdk/lib fs": 0,
+      "multi node_modules/next/dist/client/next": 1
+    },
+    "usedIds": {
+      "0": 0,
+      "1": 1
+    }
+  },
+  "chunks": {
+    "byName": {
+      "commons": 0,
+      "static/runtime/webpack.js": 1,
+      "static/Vyv6MF4owLCK7MNZMQvyJ/pages/_app.js": 2,
+      "static/Vyv6MF4owLCK7MNZMQvyJ/pages/_error.js": 3,
+      "static/Vyv6MF4owLCK7MNZMQvyJ/pages/index.js": 4,
+      "static/Vyv6MF4owLCK7MNZMQvyJ/pages/login.js": 5,
+      "static/Vyv6MF4owLCK7MNZMQvyJ/pages/signup.js": 6,
+      "static/Vyv6MF4owLCK7MNZMQvyJ/pages/verify.js": 7,
+      "static/runtime/main.js": 8
+    },
+    "bySource": {},
+    "usedIds": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  }
+}

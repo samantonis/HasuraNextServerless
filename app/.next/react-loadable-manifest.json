@@ -1,10 +1,3924 @@
 {
-  "./noop": [
+  "./browserHmac": [
     {
-      "id": "./node_modules/next/dist/client/noop.js",
-      "name": "./node_modules/next/dist/client/noop.js",
-      "file": "static/chunks/0.js",
-      "publicPath": "static/chunks/0.js"
+      "id": "+OK2",
+      "name": "./node_modules/aws-sdk/lib/browserHmac.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "core-js/library/fn/symbol": [
+    {
+      "id": "+SFK",
+      "name": "./node_modules/core-js/library/fn/symbol/index.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "core-js/library/fn/set": [
+    {
+      "id": "+iuc",
+      "name": "./node_modules/core-js/library/fn/set.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "core-js/library/fn/object/get-prototype-of": [
+    {
+      "id": "+plK",
+      "name": "./node_modules/core-js/library/fn/object/get-prototype-of.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "events": [
+    {
+      "id": "+qE3",
+      "name": "./node_modules/events/events.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "@babel/runtime-corejs2/helpers/getPrototypeOf": [
+    {
+      "id": "/+P4",
+      "name": "./node_modules/@babel/runtime-corejs2/helpers/getPrototypeOf.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "@babel/runtime-corejs2/helpers/classCallCheck": [
+    {
+      "id": "/HRN",
+      "name": "./node_modules/@babel/runtime-corejs2/helpers/classCallCheck.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "../vendor/paho-mqtt": [
+    {
+      "id": "/L9L",
+      "name": "./node_modules/@aws-amplify/pubsub/lib/vendor/paho-mqtt.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./OAuthHelper": [
+    {
+      "id": "/xGt",
+      "name": "./node_modules/@aws-amplify/core/lib/OAuthHelper/index.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./Errors": [
+    {
+      "id": "00xe",
+      "name": "./node_modules/@aws-amplify/xr/lib/Errors.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    },
+    {
+      "id": "QG57",
+      "name": "./node_modules/@aws-amplify/core/lib/Errors.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./XR": [
+    {
+      "id": "0BBj",
+      "name": "./node_modules/@aws-amplify/xr/lib/XR.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./with-router": [
+    {
+      "id": "0Bsm",
+      "name": "./node_modules/next/dist/client/with-router.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "../apis/cognito-identity-2014-06-30.min.json": [
+    {
+      "id": "0JXb",
+      "name": "./node_modules/aws-sdk/apis/cognito-identity-2014-06-30.min.json",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "@babel/runtime-corejs2/helpers/esm/classCallCheck": [
+    {
+      "id": "0iUn",
+      "name": "./node_modules/@babel/runtime-corejs2/helpers/esm/classCallCheck.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "core-js/library/fn/array/from": [
+    {
+      "id": "0tVQ",
+      "name": "./node_modules/core-js/library/fn/array/from.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./factoryWithThrowingShims": [
+    {
+      "id": "16Al",
+      "name": "./node_modules/prop-types/factoryWithThrowingShims.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    },
+    {
+      "id": "6/TA",
+      "name": "./node_modules/react-apollo/node_modules/prop-types/factoryWithThrowingShims.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "prop-types": [
+    {
+      "id": "17x9",
+      "name": "./node_modules/prop-types/index.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    },
+    {
+      "id": "ZRwU",
+      "name": "./node_modules/react-apollo/node_modules/prop-types/index.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./support/isBuffer": [
+    {
+      "id": "1gqn",
+      "name": "./node_modules/util/support/isBufferBrowser.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "apollo-link": [
+    {
+      "id": "1jQf",
+      "name": "./node_modules/apollo-link/lib/bundle.esm.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "ts-invariant": [
+    {
+      "id": "1jm/",
+      "name": "./node_modules/react-apollo/node_modules/ts-invariant/lib/invariant.esm.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    },
+    {
+      "id": "G7Z6",
+      "name": "./node_modules/apollo-link/node_modules/ts-invariant/lib/invariant.esm.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    },
+    {
+      "id": "qVdT",
+      "name": "./node_modules/ts-invariant/lib/invariant.esm.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./model/operation": [
+    {
+      "id": "1vLn",
+      "name": "./node_modules/aws-sdk/lib/model/operation.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./oauthStorage": [
+    {
+      "id": "1y/n",
+      "name": "./node_modules/@aws-amplify/auth/lib/OAuth/oauthStorage.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "next/router": [
+    {
+      "id": "20a2",
+      "name": "./node_modules/next/router.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./source": [
+    {
+      "id": "24QJ",
+      "name": "./node_modules/@aws-amplify/api/node_modules/graphql/language/source.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./_shared": [
+    {
+      "id": "29s/",
+      "name": "./node_modules/core-js/library/modules/_shared.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "../../core-js/object/define-properties": [
+    {
+      "id": "2Eek",
+      "name": "./node_modules/@babel/runtime-corejs2/core-js/object/define-properties.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./_ctx": [
+    {
+      "id": "2GTP",
+      "name": "./node_modules/core-js/library/modules/_ctx.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "core-js/library/fn/symbol/iterator": [
+    {
+      "id": "2Nb0",
+      "name": "./node_modules/core-js/library/fn/symbol/iterator.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./formatError": [
+    {
+      "id": "2SDn",
+      "name": "./node_modules/@aws-amplify/api/node_modules/graphql/error/formatError.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./../helpers/isAbsoluteURL": [
+    {
+      "id": "2SVd",
+      "name": "./node_modules/axios/lib/helpers/isAbsoluteURL.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./_object-dp": [
+    {
+      "id": "2faE",
+      "name": "./node_modules/core-js/library/modules/_object-dp.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "hoist-non-react-statics": [
+    {
+      "id": "2mql",
+      "name": "./node_modules/hoist-non-react-statics/dist/hoist-non-react-statics.cjs.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    },
+    {
+      "id": "pjLU",
+      "name": "./node_modules/react-apollo/node_modules/hoist-non-react-statics/dist/hoist-non-react-statics.cjs.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "../apis/sts-2011-06-15.paginators.json": [
+    {
+      "id": "3/th",
+      "name": "./node_modules/aws-sdk/apis/sts-2011-06-15.paginators.json",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "../types/Auth": [
+    {
+      "id": "30Lp",
+      "name": "./node_modules/@aws-amplify/auth/lib/types/Auth.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./realclock/browserClock": [
+    {
+      "id": "3FsZ",
+      "name": "./node_modules/aws-sdk/lib/realclock/browserClock.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "core-js/library/fn/object/create": [
+    {
+      "id": "3GJH",
+      "name": "./node_modules/core-js/library/fn/object/create.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./../../webpack/buildin/harmony-module.js": [
+    {
+      "id": "3UD+",
+      "name": "./node_modules/webpack/buildin/harmony-module.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./GoogleOAuth": [
+    {
+      "id": "3aDT",
+      "name": "./node_modules/@aws-amplify/core/lib/OAuthHelper/GoogleOAuth.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./dist/style": [
+    {
+      "id": "3niX",
+      "name": "./node_modules/styled-jsx/dist/style.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./region_config": [
+    {
+      "id": "3uhI",
+      "name": "./node_modules/aws-sdk/lib/region_config.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "../../package.json": [
+    {
+      "id": "40HV",
+      "name": "./node_modules/@aws-amplify/core/package.json",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "isarray": [
+    {
+      "id": "49sm",
+      "name": "./node_modules/isarray/index.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./encode": [
+    {
+      "id": "4JlD",
+      "name": "./node_modules/querystring-es3/encode.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "react-apollo": [
+    {
+      "id": "4KRT",
+      "name": "./node_modules/react-apollo/react-apollo.esm.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "core-js/library/fn/object/freeze": [
+    {
+      "id": "4bdI",
+      "name": "./node_modules/core-js/library/fn/object/freeze.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./parse-message": [
+    {
+      "id": "4eZz",
+      "name": "./node_modules/aws-sdk/lib/event-stream/parse-message.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "../language/location": [
+    {
+      "id": "4ebx",
+      "name": "./node_modules/@aws-amplify/api/node_modules/graphql/language/location.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./lib/rng": [
+    {
+      "id": "4fRq",
+      "name": "./node_modules/uuid/lib/rng-browser.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    },
+    {
+      "id": "ZyCK",
+      "name": "./node_modules/aws-sdk/node_modules/uuid/lib/rng-browser.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./side-effect": [
+    {
+      "id": "4hZ1",
+      "name": "./node_modules/next-server/dist/lib/side-effect.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./visitor": [
+    {
+      "id": "4kB8",
+      "name": "./node_modules/@aws-amplify/api/node_modules/graphql/language/visitor.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./browserCryptoLib": [
+    {
+      "id": "4woR",
+      "name": "./node_modules/aws-sdk/lib/browserCryptoLib.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./kinds": [
+    {
+      "id": "58i8",
+      "name": "./node_modules/@aws-amplify/api/node_modules/graphql/language/kinds.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "@aws-amplify/cache": [
+    {
+      "id": "5Ci3",
+      "name": "./node_modules/@aws-amplify/cache/lib/index.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./_an-object": [
+    {
+      "id": "5K7Z",
+      "name": "./node_modules/core-js/library/modules/_an-object.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./CacheUtils": [
+    {
+      "id": "5Kr6",
+      "name": "./node_modules/@aws-amplify/cache/lib/Utils/CacheUtils.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./_global": [
+    {
+      "id": "5T2Y",
+      "name": "./node_modules/core-js/library/modules/_global.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./urlOpener": [
+    {
+      "id": "5b7z",
+      "name": "./node_modules/@aws-amplify/auth/lib/OAuth/urlOpener.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./../helpers/combineURLs": [
+    {
+      "id": "5oMp",
+      "name": "./node_modules/axios/lib/helpers/combineURLs.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./_object-keys-internal": [
+    {
+      "id": "5vMV",
+      "name": "./node_modules/core-js/library/modules/_object-keys-internal.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./model/api": [
+    {
+      "id": "5wOx",
+      "name": "./node_modules/aws-sdk/lib/model/api.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "../event-stream/event-message-chunker": [
+    {
+      "id": "5wkZ",
+      "name": "./node_modules/aws-sdk/lib/event-stream/event-message-chunker.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./_meta": [
+    {
+      "id": "6/1s",
+      "name": "./node_modules/core-js/library/modules/_meta.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "../../clients/sts": [
+    {
+      "id": "6Yqx",
+      "name": "./node_modules/aws-sdk/clients/sts.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./CacheList": [
+    {
+      "id": "6hkF",
+      "name": "./node_modules/@aws-amplify/cache/lib/Utils/CacheList.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./_set-proto": [
+    {
+      "id": "6tYh",
+      "name": "./node_modules/core-js/library/modules/_set-proto.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "crypto-js/hmac-sha256": [
+    {
+      "id": "7VPu",
+      "name": "./node_modules/crypto-js/hmac-sha256.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./delegate": [
+    {
+      "id": "7uT/",
+      "name": "./node_modules/@aws-amplify/analytics/lib/vendor/dom-utils/delegate.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./state_machine": [
+    {
+      "id": "81Wt",
+      "name": "./node_modules/aws-sdk/lib/state_machine.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./closest": [
+    {
+      "id": "8ep+",
+      "name": "./node_modules/@aws-amplify/analytics/lib/vendor/dom-utils/closest.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./_species-constructor": [
+    {
+      "id": "8gHz",
+      "name": "./node_modules/core-js/library/modules/_species-constructor.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./_collection-to-json": [
+    {
+      "id": "8iia",
+      "name": "./node_modules/core-js/library/modules/_collection-to-json.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./Credentials": [
+    {
+      "id": "8l2q",
+      "name": "./node_modules/@aws-amplify/core/lib/Credentials.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./credentials": [
+    {
+      "id": "8loY",
+      "name": "./node_modules/aws-sdk/lib/credentials.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./lib/ReactPropTypesSecret": [
+    {
+      "id": "8nx3",
+      "name": "./node_modules/react-apollo/node_modules/prop-types/lib/ReactPropTypesSecret.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    },
+    {
+      "id": "WbBG",
+      "name": "./node_modules/prop-types/lib/ReactPropTypesSecret.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./../../../../process/browser.js": [
+    {
+      "id": "8oxB",
+      "name": "./node_modules/process/browser.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./_is-object": [
+    {
+      "id": "93I4",
+      "name": "./node_modules/core-js/library/modules/_is-object.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "core-js/library/fn/array/is-array": [
+    {
+      "id": "9BDd",
+      "name": "./node_modules/core-js/library/fn/array/is-array.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./protocol/rest_json": [
+    {
+      "id": "9Gqe",
+      "name": "./node_modules/aws-sdk/lib/protocol/rest_json.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "@babel/runtime-corejs2/core-js/json/stringify": [
+    {
+      "id": "9Jkg",
+      "name": "./node_modules/@babel/runtime-corejs2/core-js/json/stringify.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./Hub": [
+    {
+      "id": "9K5O",
+      "name": "./node_modules/@aws-amplify/core/lib/Hub.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./Interactions": [
+    {
+      "id": "9ZEK",
+      "name": "./node_modules/@aws-amplify/interactions/lib/Interactions.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "string-hash": [
+    {
+      "id": "9kyW",
+      "name": "./node_modules/string-hash/index.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./InterceptorManager": [
+    {
+      "id": "9rSQ",
+      "name": "./node_modules/axios/lib/core/InterceptorManager.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "fast-json-stable-stringify": [
+    {
+      "id": "9x6x",
+      "name": "./node_modules/fast-json-stable-stringify/index.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "../jsutils/instanceOf": [
+    {
+      "id": "A1wS",
+      "name": "./node_modules/@aws-amplify/api/node_modules/graphql/module/jsutils/instanceOf.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./_object-gopn-ext": [
+    {
+      "id": "A5Xg",
+      "name": "./node_modules/core-js/library/modules/_object-gopn-ext.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "zen-observable": [
+    {
+      "id": "ABJ/",
+      "name": "./node_modules/zen-observable/index.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "@babel/runtime-corejs2/helpers/esm/assertThisInitialized": [
+    {
+      "id": "AT/M",
+      "name": "./node_modules/@babel/runtime-corejs2/helpers/esm/assertThisInitialized.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "../../modules/es6.symbol": [
+    {
+      "id": "AUvm",
+      "name": "./node_modules/core-js/library/modules/es6.symbol.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "../../modules/es6.object.get-prototype-of": [
+    {
+      "id": "ApPD",
+      "name": "./node_modules/core-js/library/modules/es6.object.get-prototype-of.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./InMemoryCache": [
+    {
+      "id": "AvwR",
+      "name": "./node_modules/@aws-amplify/cache/lib/InMemoryCache.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./_has": [
+    {
+      "id": "B+OT",
+      "name": "./node_modules/core-js/library/modules/_has.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./signers/request_signer": [
+    {
+      "id": "B0QO",
+      "name": "./node_modules/aws-sdk/lib/signers/request_signer.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./InteractionsProvider": [
+    {
+      "id": "B8oL",
+      "name": "./node_modules/@aws-amplify/interactions/lib/Providers/InteractionsProvider.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "../modules/es6.set": [
+    {
+      "id": "B9jh",
+      "name": "./node_modules/core-js/library/modules/es6.set.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "is-buffer": [
+    {
+      "id": "BEtg",
+      "name": "./node_modules/is-buffer/index.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./protocol/json": [
+    {
+      "id": "BGYI",
+      "name": "./node_modules/aws-sdk/lib/protocol/json.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./blockString": [
+    {
+      "id": "BLR7",
+      "name": "./node_modules/graphql/language/blockString.mjs",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./util": [
+    {
+      "id": "BaN1",
+      "name": "./node_modules/aws-sdk/lib/util.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    },
+    {
+      "id": "Nehr",
+      "name": "./node_modules/url/util.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./shallow-equals": [
+    {
+      "id": "Bgbl",
+      "name": "./node_modules/next-server/dist/lib/router/shallow-equals.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "../core-js/object/get-prototype-of": [
+    {
+      "id": "Bhuq",
+      "name": "./node_modules/@babel/runtime-corejs2/core-js/object/get-prototype-of.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./Signer": [
+    {
+      "id": "BttL",
+      "name": "./node_modules/@aws-amplify/core/lib/Signer.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "next-server/dist/lib/utils": [
+    {
+      "id": "Bu4q",
+      "name": "./node_modules/next-server/dist/lib/utils.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "../apis/sts-2011-06-15.min.json": [
+    {
+      "id": "BxO9",
+      "name": "./node_modules/aws-sdk/apis/sts-2011-06-15.min.json",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./_array-species-constructor": [
+    {
+      "id": "C2SN",
+      "name": "./node_modules/core-js/library/modules/_array-species-constructor.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./xml/browser_parser": [
+    {
+      "id": "CFft",
+      "name": "./node_modules/aws-sdk/lib/xml/browser_parser.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "jmespath": [
+    {
+      "id": "CNpV",
+      "name": "./node_modules/jmespath/jmespath.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "../apis/s3-2006-03-01.min.json": [
+    {
+      "id": "CaBw",
+      "name": "./node_modules/aws-sdk/apis/s3-2006-03-01.min.json",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "../components/layout": [
+    {
+      "id": "CafY",
+      "name": "./components/layout.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./model/resource_waiter": [
+    {
+      "id": "CbSC",
+      "name": "./node_modules/aws-sdk/lib/model/resource_waiter.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./Providers": [
+    {
+      "id": "CcTp",
+      "name": "./node_modules/@aws-amplify/interactions/lib/Providers/index.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    },
+    {
+      "id": "Dpi+",
+      "name": "./node_modules/@aws-amplify/storage/lib/Providers/index.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    },
+    {
+      "id": "R02Q",
+      "name": "./node_modules/@aws-amplify/analytics/lib/Providers/index.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    },
+    {
+      "id": "y/NE",
+      "name": "./node_modules/@aws-amplify/pubsub/lib/Providers/index.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./RestClient": [
+    {
+      "id": "CdOw",
+      "name": "./node_modules/@aws-amplify/api/lib/RestClient.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./core/Axios": [
+    {
+      "id": "CgaS",
+      "name": "./node_modules/axios/lib/core/Axios.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "url": [
+    {
+      "id": "CxY0",
+      "name": "./node_modules/url/url.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./API": [
+    {
+      "id": "D1Gb",
+      "name": "./node_modules/@aws-amplify/api/lib/API.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./v2": [
+    {
+      "id": "D8LC",
+      "name": "./node_modules/aws-sdk/lib/signers/v2.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./_to-absolute-index": [
+    {
+      "id": "D8kY",
+      "name": "./node_modules/core-js/library/modules/_to-absolute-index.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "../apis/s3-2006-03-01.waiters2.json": [
+    {
+      "id": "DSSA",
+      "name": "./node_modules/aws-sdk/apis/s3-2006-03-01.waiters2.json",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./helpers/spread": [
+    {
+      "id": "DfZB",
+      "name": "./node_modules/axios/lib/helpers/spread.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./Providers/AWSLexProvider": [
+    {
+      "id": "Dtam",
+      "name": "./node_modules/@aws-amplify/interactions/lib/Providers/AWSLexProvider.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "graphql/language/parser": [
+    {
+      "id": "EMzn",
+      "name": "./node_modules/graphql/language/parser.mjs",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    },
+    {
+      "id": "UK3q",
+      "name": "./node_modules/@aws-amplify/api/node_modules/graphql/language/parser.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "crypto-js/enc-base64": [
+    {
+      "id": "ETIr",
+      "name": "./node_modules/crypto-js/enc-base64.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./_an-instance": [
+    {
+      "id": "EXMj",
+      "name": "./node_modules/core-js/library/modules/_an-instance.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./parents": [
+    {
+      "id": "Ebvy",
+      "name": "./node_modules/@aws-amplify/analytics/lib/vendor/dom-utils/parents.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "uuid": [
+    {
+      "id": "EcEN",
+      "name": "./node_modules/uuid/index.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    },
+    {
+      "id": "nXTE",
+      "name": "./node_modules/aws-sdk/node_modules/uuid/index.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "crypto-js/lib-typedarrays": [
+    {
+      "id": "F+F2",
+      "name": "./node_modules/crypto-js/lib-typedarrays.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./Providers/AWSIotProvider": [
+    {
+      "id": "F/fy",
+      "name": "./node_modules/@aws-amplify/pubsub/lib/Providers/AWSIotProvider.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./presign": [
+    {
+      "id": "F442",
+      "name": "./node_modules/aws-sdk/lib/signers/presign.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "../error": [
+    {
+      "id": "FGIN",
+      "name": "./node_modules/@aws-amplify/api/node_modules/graphql/error/index.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "../signers/v4_credentials": [
+    {
+      "id": "FGtl",
+      "name": "./node_modules/aws-sdk/lib/signers/v4_credentials.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "../apis/metadata.json": [
+    {
+      "id": "FQVY",
+      "name": "./node_modules/aws-sdk/apis/metadata.json",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "../../core-js/object/freeze": [
+    {
+      "id": "FbiP",
+      "name": "./node_modules/@babel/runtime-corejs2/core-js/object/freeze.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "../modules/es6.string.iterator": [
+    {
+      "id": "FlQf",
+      "name": "./node_modules/core-js/library/modules/es6.string.iterator.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./_enum-bug-keys": [
+    {
+      "id": "FpHa",
+      "name": "./node_modules/core-js/library/modules/_enum-bug-keys.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./_to-primitive": [
+    {
+      "id": "G8Mo",
+      "name": "./node_modules/core-js/library/modules/_to-primitive.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./StorageCache": [
+    {
+      "id": "G9Oy",
+      "name": "./node_modules/@aws-amplify/cache/lib/StorageCache.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./GraphQLError": [
+    {
+      "id": "Gf+4",
+      "name": "./node_modules/@aws-amplify/api/node_modules/graphql/error/GraphQLError.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./locatedError": [
+    {
+      "id": "Gs+d",
+      "name": "./node_modules/@aws-amplify/api/node_modules/graphql/error/locatedError.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "../../modules/es6.array.is-array": [
+    {
+      "id": "GvbO",
+      "name": "./node_modules/core-js/library/modules/es6.array.is-array.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "base64-js": [
+    {
+      "id": "H7XF",
+      "name": "./node_modules/base64-js/index.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./helpers/bind": [
+    {
+      "id": "HSsa",
+      "name": "./node_modules/axios/lib/helpers/bind.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./printError": [
+    {
+      "id": "HeI7",
+      "name": "./node_modules/@aws-amplify/api/node_modules/graphql/error/printError.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "../../modules/es6.object.set-prototype-of": [
+    {
+      "id": "Hfiw",
+      "name": "./node_modules/core-js/library/modules/es6.object.set-prototype-of.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./_dom-create": [
+    {
+      "id": "Hsns",
+      "name": "./node_modules/core-js/library/modules/_dom-create.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./lib/bytesToUuid": [
+    {
+      "id": "I2ZF",
+      "name": "./node_modules/uuid/lib/bytesToUuid.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    },
+    {
+      "id": "V20V",
+      "name": "./node_modules/aws-sdk/node_modules/uuid/lib/bytesToUuid.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "aws-sdk/clients/kinesis": [
+    {
+      "id": "I5gj",
+      "name": "./node_modules/aws-sdk/clients/kinesis.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "next-server/dist/lib/head-manager-context": [
+    {
+      "id": "IClC",
+      "name": "./node_modules/next-server/dist/lib/head-manager-context.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./cjs/react-dom-server.browser.production.min.js": [
+    {
+      "id": "IDhZ",
+      "name": "./node_modules/react-dom/cjs/react-dom-server.browser.production.min.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./_create-property": [
+    {
+      "id": "IP1Z",
+      "name": "./node_modules/core-js/library/modules/_create-property.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "crypto-js/core": [
+    {
+      "id": "Ib8C",
+      "name": "./node_modules/crypto-js/core.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./Facet": [
+    {
+      "id": "IeWo",
+      "name": "./node_modules/@aws-amplify/core/lib/Facet.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./_to-object": [
+    {
+      "id": "JB68",
+      "name": "./node_modules/core-js/library/modules/_to-object.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./defaults": [
+    {
+      "id": "JEQr",
+      "name": "./node_modules/axios/lib/defaults.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "../modules/es6.promise": [
+    {
+      "id": "JMW+",
+      "name": "./node_modules/core-js/library/modules/es6.promise.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "next-server/dist/lib/router/router": [
+    {
+      "id": "JQMT",
+      "name": "./node_modules/next-server/dist/lib/router/router.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./json/builder": [
+    {
+      "id": "JWCV",
+      "name": "./node_modules/aws-sdk/lib/json/builder.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "core-js/library/fn/object/set-prototype-of": [
+    {
+      "id": "JbBM",
+      "name": "./node_modules/core-js/library/fn/object/set-prototype-of.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./_defined": [
+    {
+      "id": "Jes0",
+      "name": "./node_modules/core-js/library/modules/_defined.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./Analytics": [
+    {
+      "id": "JqD5",
+      "name": "./node_modules/@aws-amplify/analytics/lib/Analytics.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "../lib/services/cognitoidentity": [
+    {
+      "id": "JzWT",
+      "name": "./node_modules/aws-sdk/lib/services/cognitoidentity.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./assertThisInitialized": [
+    {
+      "id": "K47E",
+      "name": "./node_modules/@babel/runtime-corejs2/helpers/assertThisInitialized.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./XRProvider": [
+    {
+      "id": "K8sX",
+      "name": "./node_modules/@aws-amplify/xr/lib/Providers/XRProvider.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "react-dom/server": [
+    {
+      "id": "KAy6",
+      "name": "./node_modules/react-dom/server.browser.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./protocol/rest": [
+    {
+      "id": "KFai",
+      "name": "./node_modules/aws-sdk/lib/protocol/rest.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "@babel/runtime-corejs2/helpers/interopRequireDefault": [
+    {
+      "id": "KI45",
+      "name": "./node_modules/@babel/runtime-corejs2/helpers/interopRequireDefault.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "undefined": [
+    {
+      "id": 0,
+      "name": null,
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./v4": [
+    {
+      "id": "KIbX",
+      "name": "./node_modules/aws-sdk/lib/signers/v4.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    },
+    {
+      "id": "sImd",
+      "name": "./node_modules/aws-sdk/node_modules/uuid/v4.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    },
+    {
+      "id": "xk4V",
+      "name": "./node_modules/uuid/v4.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./_fails": [
+    {
+      "id": "KUxP",
+      "name": "./node_modules/core-js/library/modules/_fails.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "graphql/language/visitor": [
+    {
+      "id": "L2ys",
+      "name": "./node_modules/graphql/language/visitor.mjs",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./PageViewTracker": [
+    {
+      "id": "L8B5",
+      "name": "./node_modules/@aws-amplify/analytics/lib/trackers/PageViewTracker.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "../core/createError": [
+    {
+      "id": "LYNF",
+      "name": "./node_modules/axios/lib/core/createError.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./http/xhr": [
+    {
+      "id": "Lh65",
+      "name": "./node_modules/aws-sdk/lib/http/xhr.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./PubSub": [
+    {
+      "id": "LkOU",
+      "name": "./node_modules/@aws-amplify/pubsub/lib/PubSub.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./cancel/isCancel": [
+    {
+      "id": "Lmem",
+      "name": "./node_modules/axios/lib/cancel/isCancel.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./_iobject": [
+    {
+      "id": "M1xp",
+      "name": "./node_modules/core-js/library/modules/_iobject.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "util": [
+    {
+      "id": "MCLT",
+      "name": "./node_modules/util/util.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./_invoke": [
+    {
+      "id": "MCSJ",
+      "name": "./node_modules/core-js/library/modules/_invoke.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "aws-sdk/clients/lexruntime": [
+    {
+      "id": "MCx4",
+      "name": "./node_modules/aws-sdk/clients/lexruntime.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "@babel/runtime-corejs2/helpers/esm/possibleConstructorReturn": [
+    {
+      "id": "MI3g",
+      "name": "./node_modules/@babel/runtime-corejs2/helpers/esm/possibleConstructorReturn.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./../helpers/buildURL": [
+    {
+      "id": "MLWZ",
+      "name": "./node_modules/axios/lib/helpers/buildURL.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./_iter-define": [
+    {
+      "id": "MPFp",
+      "name": "./node_modules/core-js/library/modules/_iter-define.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "styled-jsx/style": [
+    {
+      "id": "MX0m",
+      "name": "./node_modules/styled-jsx/style.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "../apis/kinesis-2013-12-02.min.json": [
+    {
+      "id": "MYFO",
+      "name": "./node_modules/aws-sdk/apis/kinesis-2013-12-02.min.json",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "aws-sdk/global": [
+    {
+      "id": "Mc43",
+      "name": "./node_modules/aws-sdk/browser.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "@aws-amplify/core/lib/constants": [
+    {
+      "id": "MfnF",
+      "name": "./node_modules/@aws-amplify/core/lib/constants.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "object-assign": [
+    {
+      "id": "MgzW",
+      "name": "./node_modules/object-assign/index.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "../../modules/es6.object.keys": [
+    {
+      "id": "Mqbl",
+      "name": "./node_modules/core-js/library/modules/es6.object.keys.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./_html": [
+    {
+      "id": "MvwC",
+      "name": "./node_modules/core-js/library/modules/_html.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./v3": [
+    {
+      "id": "N2+Z",
+      "name": "./node_modules/aws-sdk/lib/signers/v3.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "@babel/runtime-corejs2/helpers/inherits": [
+    {
+      "id": "N9n2",
+      "name": "./node_modules/@babel/runtime-corejs2/helpers/inherits.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./v1": [
+    {
+      "id": "NODT",
+      "name": "./node_modules/aws-sdk/node_modules/uuid/v1.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    },
+    {
+      "id": "xDdU",
+      "name": "./node_modules/uuid/v1.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./_object-pie": [
+    {
+      "id": "NV0k",
+      "name": "./node_modules/core-js/library/modules/_object-pie.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./event-stream/buffered-create-event-stream": [
+    {
+      "id": "NVWg",
+      "name": "./node_modules/aws-sdk/lib/event-stream/buffered-create-event-stream.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./_hide": [
+    {
+      "id": "NegM",
+      "name": "./node_modules/core-js/library/modules/_hide.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./_to-iobject": [
+    {
+      "id": "NsO/",
+      "name": "./node_modules/core-js/library/modules/_to-iobject.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./_is-array-iter": [
+    {
+      "id": "NwJ3",
+      "name": "./node_modules/core-js/library/modules/_is-array-iter.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "@babel/runtime-corejs2/helpers/esm/asyncToGenerator": [
+    {
+      "id": "O40h",
+      "name": "./node_modules/@babel/runtime-corejs2/helpers/esm/asyncToGenerator.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./enhanceError": [
+    {
+      "id": "OH9c",
+      "name": "./node_modules/axios/lib/core/enhanceError.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./../helpers/isURLSameOrigin": [
+    {
+      "id": "OTTw",
+      "name": "./node_modules/axios/lib/helpers/isURLSameOrigin.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./ClientDevice": [
+    {
+      "id": "Ojby",
+      "name": "./node_modules/@aws-amplify/core/lib/ClientDevice/index.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./_to-integer": [
+    {
+      "id": "Ojgd",
+      "name": "./node_modules/core-js/library/modules/_to-integer.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "@aws-amplify/analytics": [
+    {
+      "id": "OyEr",
+      "name": "./node_modules/@aws-amplify/analytics/lib/index.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "inherits": [
+    {
+      "id": "P7XM",
+      "name": "./node_modules/inherits/inherits_browser.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "graphql/language/printer": [
+    {
+      "id": "P7nB",
+      "name": "./node_modules/@aws-amplify/api/node_modules/graphql/language/printer.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    },
+    {
+      "id": "dQau",
+      "name": "./node_modules/graphql/language/printer.mjs",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "../modules/es7.promise.finally": [
+    {
+      "id": "PBE1",
+      "name": "./node_modules/core-js/library/modules/es7.promise.finally.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "next-server/head": [
+    {
+      "id": "PgRs",
+      "name": "./node_modules/next-server/head.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "../apis/cognito-identity-2014-06-30.paginators.json": [
+    {
+      "id": "Ppu6",
+      "name": "./node_modules/aws-sdk/apis/cognito-identity-2014-06-30.paginators.json",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./http": [
+    {
+      "id": "Pzvs",
+      "name": "./node_modules/aws-sdk/lib/http.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "../modules/es7.promise.try": [
+    {
+      "id": "Q/yX",
+      "name": "./node_modules/core-js/library/modules/es7.promise.try.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./_classof": [
+    {
+      "id": "QMMT",
+      "name": "./node_modules/core-js/library/modules/_classof.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./_task": [
+    {
+      "id": "QXhf",
+      "name": "./node_modules/core-js/library/modules/_task.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "../lib/core": [
+    {
+      "id": "QsWE",
+      "name": "./node_modules/aws-sdk/lib/core.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./_enum-keys": [
+    {
+      "id": "R+7+",
+      "name": "./node_modules/core-js/library/modules/_enum-keys.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./_perform": [
+    {
+      "id": "RDmV",
+      "name": "./node_modules/core-js/library/modules/_perform.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./types": [
+    {
+      "id": "RF0m",
+      "name": "./node_modules/@aws-amplify/auth/lib/types/index.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./nodejsCustomInspectSymbol": [
+    {
+      "id": "RKIb",
+      "name": "./node_modules/graphql/jsutils/nodejsCustomInspectSymbol.mjs",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./_array-from-iterable": [
+    {
+      "id": "RRc/",
+      "name": "./node_modules/core-js/library/modules/_array-from-iterable.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "apollo-utilities": [
+    {
+      "id": "RRgQ",
+      "name": "./node_modules/apollo-utilities/lib/bundle.esm.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "core-js/library/fn/object/define-property": [
+    {
+      "id": "RU/L",
+      "name": "./node_modules/core-js/library/fn/object/define-property.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./_set-to-string-tag": [
+    {
+      "id": "RfKB",
+      "name": "./node_modules/core-js/library/modules/_set-to-string-tag.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./../core/settle": [
+    {
+      "id": "Rn+g",
+      "name": "./node_modules/axios/lib/core/settle.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "core-js/library/fn/get-iterator": [
+    {
+      "id": "Rp86",
+      "name": "./node_modules/core-js/library/fn/get-iterator.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "../../modules/es6.object.define-property": [
+    {
+      "id": "Rqdy",
+      "name": "./node_modules/core-js/library/modules/es6.object.define-property.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./credentials/temporary_credentials": [
+    {
+      "id": "S6rO",
+      "name": "./node_modules/aws-sdk/lib/credentials/temporary_credentials.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./_iterators": [
+    {
+      "id": "SBuE",
+      "name": "./node_modules/core-js/library/modules/_iterators.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./ponyfill.js": [
+    {
+      "id": "SLVX",
+      "name": "./node_modules/symbol-observable/es/ponyfill.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./stylesheet-registry": [
+    {
+      "id": "SevZ",
+      "name": "./node_modules/styled-jsx/dist/stylesheet-registry.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./escape-element": [
+    {
+      "id": "Sl41",
+      "name": "./node_modules/aws-sdk/lib/xml/escape-element.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "../core-js/object/create": [
+    {
+      "id": "SqZg",
+      "name": "./node_modules/@babel/runtime-corejs2/core-js/object/create.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./s3": [
+    {
+      "id": "SysZ",
+      "name": "./node_modules/aws-sdk/lib/signers/s3.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./collection": [
+    {
+      "id": "T0AB",
+      "name": "./node_modules/aws-sdk/lib/model/collection.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./param_validator": [
+    {
+      "id": "T0yy",
+      "name": "./node_modules/aws-sdk/lib/param_validator.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "graphql": [
+    {
+      "id": "T6Zd",
+      "name": "./node_modules/@aws-amplify/api/node_modules/graphql/module/index.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "amazon-cognito-identity-js": [
+    {
+      "id": "TESy",
+      "name": "./node_modules/amazon-cognito-identity-js/es/index.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./_set-species": [
+    {
+      "id": "TJWN",
+      "name": "./node_modules/core-js/library/modules/_set-species.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "react-is": [
+    {
+      "id": "TOwV",
+      "name": "./node_modules/react-is/index.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    },
+    {
+      "id": "rcHl",
+      "name": "./node_modules/react-apollo/node_modules/react-is/index.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "../core-js/object/set-prototype-of": [
+    {
+      "id": "TRZx",
+      "name": "./node_modules/@babel/runtime-corejs2/core-js/object/set-prototype-of.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "@babel/runtime-corejs2/helpers/esm/inherits": [
+    {
+      "id": "Tit0",
+      "name": "./node_modules/@babel/runtime-corejs2/helpers/esm/inherits.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./model/paginator": [
+    {
+      "id": "TkaK",
+      "name": "./node_modules/aws-sdk/lib/model/paginator.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./_iter-detect": [
+    {
+      "id": "TuGD",
+      "name": "./node_modules/core-js/library/modules/_iter-detect.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./_object-gpo": [
+    {
+      "id": "U+KD",
+      "name": "./node_modules/core-js/library/modules/_object-gpo.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./syntaxError": [
+    {
+      "id": "UC0P",
+      "name": "./node_modules/@aws-amplify/api/node_modules/graphql/error/syntaxError.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./RNComponents": [
+    {
+      "id": "UG2K",
+      "name": "./node_modules/@aws-amplify/core/lib/RNComponents/index.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./_iter-step": [
+    {
+      "id": "UO39",
+      "name": "./node_modules/core-js/library/modules/_iter-step.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "../lib/services/s3": [
+    {
+      "id": "UQFi",
+      "name": "./node_modules/aws-sdk/lib/services/s3.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./../../timers-browserify/main.js": [
+    {
+      "id": "URgk",
+      "name": "./node_modules/timers-browserify/main.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./_wks": [
+    {
+      "id": "UWiX",
+      "name": "./node_modules/core-js/library/modules/_wks.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "@babel/runtime-corejs2/core-js/object/assign": [
+    {
+      "id": "UXZV",
+      "name": "./node_modules/@babel/runtime-corejs2/core-js/object/assign.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "core-js/library/fn/object/assign": [
+    {
+      "id": "UbbE",
+      "name": "./node_modules/core-js/library/fn/object/assign.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./directiveLocation": [
+    {
+      "id": "UblQ",
+      "name": "./node_modules/@aws-amplify/api/node_modules/graphql/language/directiveLocation.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "../../modules/es6.object.freeze": [
+    {
+      "id": "Ui4e",
+      "name": "./node_modules/core-js/library/modules/es6.object.freeze.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./dispatchRequest": [
+    {
+      "id": "UnBK",
+      "name": "./node_modules/axios/lib/core/dispatchRequest.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./Platform": [
+    {
+      "id": "UyRJ",
+      "name": "./node_modules/@aws-amplify/core/lib/Platform/index.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "../modules/es7.set.from": [
+    {
+      "id": "V+O7",
+      "name": "./node_modules/core-js/library/modules/es7.set.from.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./_array-methods": [
+    {
+      "id": "V7Et",
+      "name": "./node_modules/core-js/library/modules/_array-methods.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "../../modules/es6.array.from": [
+    {
+      "id": "VJsP",
+      "name": "./node_modules/core-js/library/modules/es6.array.from.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "core-js/library/fn/is-iterable": [
+    {
+      "id": "VKFn",
+      "name": "./node_modules/core-js/library/fn/is-iterable.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./v3https": [
+    {
+      "id": "VNF9",
+      "name": "./node_modules/aws-sdk/lib/signers/v3https.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./_shared-key": [
+    {
+      "id": "VVlx",
+      "name": "./node_modules/core-js/library/modules/_shared-key.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "../apis/mobileanalytics-2014-06-05.min.json": [
+    {
+      "id": "Vt1Y",
+      "name": "./node_modules/aws-sdk/apis/mobileanalytics-2014-06-05.min.json",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./credentials/web_identity_credentials": [
+    {
+      "id": "Vz+1",
+      "name": "./node_modules/aws-sdk/lib/credentials/web_identity_credentials.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./_array-includes": [
+    {
+      "id": "W070",
+      "name": "./node_modules/core-js/library/modules/_array-includes.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "core-js/library/fn/object/define-properties": [
+    {
+      "id": "W7oM",
+      "name": "./node_modules/core-js/library/fn/object/define-properties.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "../modules/_core": [
+    {
+      "id": "WEpk",
+      "name": "./node_modules/core-js/library/modules/_core.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./OAuth/OAuth": [
+    {
+      "id": "WFqI",
+      "name": "./node_modules/@aws-amplify/auth/lib/OAuth/OAuth.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./hmac": [
+    {
+      "id": "WYAk",
+      "name": "./node_modules/crypto-js/hmac.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "@babel/runtime-corejs2/helpers/createClass": [
+    {
+      "id": "WaGi",
+      "name": "./node_modules/@babel/runtime-corejs2/helpers/createClass.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./Auth": [
+    {
+      "id": "WnBX",
+      "name": "./node_modules/@aws-amplify/auth/lib/Auth.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./_collection-strong": [
+    {
+      "id": "Wu5q",
+      "name": "./node_modules/core-js/library/modules/_collection-strong.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./parse-url": [
+    {
+      "id": "X87J",
+      "name": "./node_modules/@aws-amplify/analytics/lib/vendor/dom-utils/parse-url.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./_redefine-all": [
+    {
+      "id": "XJU/",
+      "name": "./node_modules/core-js/library/modules/_redefine-all.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "../core-js/symbol/iterator": [
+    {
+      "id": "XVgq",
+      "name": "./node_modules/@babel/runtime-corejs2/core-js/symbol/iterator.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "../core-js/get-iterator": [
+    {
+      "id": "XXOK",
+      "name": "./node_modules/@babel/runtime-corejs2/core-js/get-iterator.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./lexer": [
+    {
+      "id": "XY8b",
+      "name": "./node_modules/@aws-amplify/api/node_modules/graphql/language/lexer.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "lodash.isequal": [
+    {
+      "id": "XaGS",
+      "name": "./node_modules/lodash.isequal/index.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "@aws-amplify/api": [
+    {
+      "id": "Y22R",
+      "name": "./node_modules/@aws-amplify/api/lib/index.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./api_loader": [
+    {
+      "id": "Y309",
+      "name": "./node_modules/aws-sdk/lib/api_loader.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./_export": [
+    {
+      "id": "Y7ZC",
+      "name": "./node_modules/core-js/library/modules/_export.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "setimmediate": [
+    {
+      "id": "YBdB",
+      "name": "./node_modules/setimmediate/setImmediate.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "next/link": [
+    {
+      "id": "YFqc",
+      "name": "./node_modules/next/link.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./_uid": [
+    {
+      "id": "YqAc",
+      "name": "./node_modules/core-js/library/modules/_uid.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./../webpack/buildin/module.js": [
+    {
+      "id": "YuTi",
+      "name": "./node_modules/webpack/buildin/module.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "../core-js/symbol": [
+    {
+      "id": "Z7t5",
+      "name": "./node_modules/@babel/runtime-corejs2/core-js/symbol.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "@babel/runtime-corejs2/helpers/possibleConstructorReturn": [
+    {
+      "id": "ZDA2",
+      "name": "./node_modules/@babel/runtime-corejs2/helpers/possibleConstructorReturn.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./xml-node": [
+    {
+      "id": "ZJYt",
+      "name": "./node_modules/aws-sdk/lib/xml/xml-node.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./response": [
+    {
+      "id": "ZONe",
+      "name": "./node_modules/aws-sdk/lib/response.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./_new-promise-capability": [
+    {
+      "id": "ZW5q",
+      "name": "./node_modules/core-js/library/modules/_new-promise-capability.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./_wks-define": [
+    {
+      "id": "Zxgi",
+      "name": "./node_modules/core-js/library/modules/_wks-define.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./dispatch": [
+    {
+      "id": "ZyxZ",
+      "name": "./node_modules/@aws-amplify/analytics/lib/vendor/dom-utils/dispatch.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./_cof": [
+    {
+      "id": "a0xu",
+      "name": "./node_modules/core-js/library/modules/_cof.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "@babel/runtime-corejs2/helpers/esm/getPrototypeOf": [
+    {
+      "id": "a7VT",
+      "name": "./node_modules/@babel/runtime-corejs2/helpers/esm/getPrototypeOf.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./_set-collection-from": [
+    {
+      "id": "aPfg",
+      "name": "./node_modules/core-js/library/modules/_set-collection-from.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "core-js/library/fn/promise": [
+    {
+      "id": "aW7e",
+      "name": "./node_modules/core-js/library/fn/promise.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "../../modules/es7.symbol.async-iterator": [
+    {
+      "id": "adOz",
+      "name": "./node_modules/core-js/library/modules/es7.symbol.async-iterator.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./_object-gopn": [
+    {
+      "id": "ar/p",
+      "name": "./node_modules/core-js/library/modules/_object-gopn.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "zen-observable-ts": [
+    {
+      "id": "b0dj",
+      "name": "./node_modules/zen-observable-ts/lib/bundle.esm.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "@babel/runtime-corejs2/helpers/construct": [
+    {
+      "id": "b3CU",
+      "name": "./node_modules/@babel/runtime-corejs2/helpers/construct.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "../modules/web.dom.iterable": [
+    {
+      "id": "bBy9",
+      "name": "./node_modules/core-js/library/modules/web.dom.iterable.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "symbol-observable": [
+    {
+      "id": "bCCX",
+      "name": "./node_modules/symbol-observable/es/index.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "aws-sdk/clients/mobileanalytics": [
+    {
+      "id": "bI2y",
+      "name": "./node_modules/aws-sdk/clients/mobileanalytics.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./lib/stylesheet": [
+    {
+      "id": "bVZc",
+      "name": "./node_modules/styled-jsx/dist/lib/stylesheet.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./config": [
+    {
+      "id": "bnYj",
+      "name": "./node_modules/aws-sdk/lib/config.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "../apis/runtime.lex-2016-11-28.paginators.json": [
+    {
+      "id": "by1G",
+      "name": "./node_modules/aws-sdk/apis/runtime.lex-2016-11-28.paginators.json",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./xml-text": [
+    {
+      "id": "c8WW",
+      "name": "./node_modules/aws-sdk/lib/xml/xml-text.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./_set-collection-of": [
+    {
+      "id": "cHUd",
+      "name": "./node_modules/core-js/library/modules/_set-collection-of.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./dist/client/link": [
+    {
+      "id": "cTJO",
+      "name": "./node_modules/next/dist/client/link.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./Storage": [
+    {
+      "id": "cYXP",
+      "name": "./node_modules/@aws-amplify/storage/lib/Storage.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "aws-sdk/clients/pinpoint": [
+    {
+      "id": "cc0a",
+      "name": "./node_modules/aws-sdk/clients/pinpoint.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./_string-at": [
+    {
+      "id": "ccE7",
+      "name": "./node_modules/core-js/library/modules/_string-at.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "../../modules/es6.reflect.construct": [
+    {
+      "id": "czwh",
+      "name": "./node_modules/core-js/library/modules/es6.reflect.construct.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "../../core-js/array/from": [
+    {
+      "id": "d04V",
+      "name": "./node_modules/@babel/runtime-corejs2/core-js/array/from.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "@aws-amplify/storage": [
+    {
+      "id": "dGe6",
+      "name": "./node_modules/@aws-amplify/storage/lib/index.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./browser": [
+    {
+      "id": "dINq",
+      "name": "./node_modules/@aws-amplify/core/lib/ClientDevice/browser.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "../modules/es7.set.to-json": [
+    {
+      "id": "dL40",
+      "name": "./node_modules/core-js/library/modules/es7.set.to-json.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "apollo-client": [
+    {
+      "id": "dMq0",
+      "name": "./node_modules/apollo-client/bundle.esm.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./parse-event": [
+    {
+      "id": "de4B",
+      "name": "./node_modules/aws-sdk/lib/event-stream/parse-event.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "@babel/runtime-corejs2/helpers/esm/toConsumableArray": [
+    {
+      "id": "dfwq",
+      "name": "./node_modules/@babel/runtime-corejs2/helpers/esm/toConsumableArray.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "../../helpers/esm/typeof": [
+    {
+      "id": "dhhW",
+      "name": "./node_modules/@babel/runtime-corejs2/helpers/esm/typeof.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "../../modules/es7.symbol.observable": [
+    {
+      "id": "dl0q",
+      "name": "./node_modules/core-js/library/modules/es7.symbol.observable.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "@babel/runtime-corejs2/helpers/esm/slicedToArray": [
+    {
+      "id": "doui",
+      "name": "./node_modules/@babel/runtime-corejs2/helpers/esm/slicedToArray.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./protocol/rest_xml": [
+    {
+      "id": "eFjS",
+      "name": "./node_modules/aws-sdk/lib/protocol/rest_xml.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./JS": [
+    {
+      "id": "eIkY",
+      "name": "./node_modules/@aws-amplify/core/lib/JS.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./sequential_executor": [
+    {
+      "id": "eLAQ",
+      "name": "./node_modules/aws-sdk/lib/sequential_executor.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./matches": [
+    {
+      "id": "eNAC",
+      "name": "./node_modules/@aws-amplify/analytics/lib/vendor/dom-utils/matches.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./_ie8-dom-define": [
+    {
+      "id": "eUtF",
+      "name": "./node_modules/core-js/library/modules/_ie8-dom-define.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "@babel/runtime-corejs2/core-js/promise": [
+    {
+      "id": "eVuF",
+      "name": "./node_modules/@babel/runtime-corejs2/core-js/promise.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./_a-function": [
+    {
+      "id": "eaoh",
+      "name": "./node_modules/core-js/library/modules/_a-function.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./Providers/AWSPinpointProvider": [
+    {
+      "id": "ehF9",
+      "name": "./node_modules/@aws-amplify/analytics/lib/Providers/AWSPinpointProvider.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./cancel/Cancel": [
+    {
+      "id": "endd",
+      "name": "./node_modules/axios/lib/cancel/Cancel.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./../helpers/cookies": [
+    {
+      "id": "eqyj",
+      "name": "./node_modules/axios/lib/helpers/cookies.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./core.get-iterator-method": [
+    {
+      "id": "fNZA",
+      "name": "./node_modules/core-js/library/modules/core.get-iterator-method.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "../modules/core.get-iterator": [
+    {
+      "id": "fXsU",
+      "name": "./node_modules/core-js/library/modules/core.get-iterator.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./_object-dps": [
+    {
+      "id": "fpC5",
+      "name": "./node_modules/core-js/library/modules/_object-dps.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./get-attributes": [
+    {
+      "id": "fzT1",
+      "name": "./node_modules/@aws-amplify/analytics/lib/vendor/dom-utils/get-attributes.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "@aws-amplify/pubsub": [
+    {
+      "id": "g1/v",
+      "name": "./node_modules/@aws-amplify/pubsub/lib/index.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./I18n": [
+    {
+      "id": "gHim",
+      "name": "./node_modules/@aws-amplify/core/lib/I18n/I18n.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    },
+    {
+      "id": "vfRX",
+      "name": "./node_modules/@aws-amplify/core/lib/I18n/index.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./Providers/SumerianProvider": [
+    {
+      "id": "gLiH",
+      "name": "./node_modules/@aws-amplify/xr/lib/Providers/SumerianProvider.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "../query/query_param_serializer": [
+    {
+      "id": "gaZ0",
+      "name": "./node_modules/aws-sdk/lib/query/query_param_serializer.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./Parser": [
+    {
+      "id": "grzT",
+      "name": "./node_modules/@aws-amplify/core/lib/Parser.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./request": [
+    {
+      "id": "h/dY",
+      "name": "./node_modules/aws-sdk/lib/request.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./_add-to-unscopables": [
+    {
+      "id": "hDam",
+      "name": "./node_modules/core-js/library/modules/_add-to-unscopables.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./region_config_data.json": [
+    {
+      "id": "hROZ",
+      "name": "./node_modules/aws-sdk/lib/region_config_data.json",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./ServiceWorker": [
+    {
+      "id": "hXNw",
+      "name": "./node_modules/@aws-amplify/core/lib/ServiceWorker/index.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    },
+    {
+      "id": "k38l",
+      "name": "./node_modules/@aws-amplify/core/lib/ServiceWorker/ServiceWorker.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./json/parser": [
+    {
+      "id": "henJ",
+      "name": "./node_modules/aws-sdk/lib/json/parser.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "../apis/kinesis-2013-12-02.paginators.json": [
+    {
+      "id": "hfGr",
+      "name": "./node_modules/aws-sdk/apis/kinesis-2013-12-02.paginators.json",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "../core-js/object/define-property": [
+    {
+      "id": "hfKm",
+      "name": "./node_modules/@babel/runtime-corejs2/core-js/object/define-property.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "react-dom": [
+    {
+      "id": "i8i4",
+      "name": "./node_modules/react-dom/index.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./credentials/cognito_identity_credentials": [
+    {
+      "id": "iYq/",
+      "name": "./node_modules/aws-sdk/lib/credentials/cognito_identity_credentials.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "../helpers/typeof": [
+    {
+      "id": "iZP3",
+      "name": "./node_modules/@babel/runtime-corejs2/helpers/typeof.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./blockStringValue": [
+    {
+      "id": "iaJu",
+      "name": "./node_modules/@aws-amplify/api/node_modules/graphql/language/blockStringValue.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./StorageHelper": [
+    {
+      "id": "iaL4",
+      "name": "./node_modules/@aws-amplify/core/lib/StorageHelper/index.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "../apis/kinesis-2013-12-02.waiters2.json": [
+    {
+      "id": "ibM8",
+      "name": "./node_modules/aws-sdk/apis/kinesis-2013-12-02.waiters2.json",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "@aws-amplify/interactions": [
+    {
+      "id": "infp",
+      "name": "./node_modules/@aws-amplify/interactions/lib/index.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./PubSubProvider": [
+    {
+      "id": "ipDR",
+      "name": "./node_modules/@aws-amplify/pubsub/lib/Providers/PubSubProvider.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "core-js/library/fn/object/keys": [
+    {
+      "id": "iq4v",
+      "name": "./node_modules/core-js/library/fn/object/keys.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "@aws-amplify/xr": [
+    {
+      "id": "iw1X",
+      "name": "./node_modules/@aws-amplify/xr/lib/index.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "../apis/s3-2006-03-01.paginators.json": [
+    {
+      "id": "j/x2",
+      "name": "./node_modules/aws-sdk/apis/s3-2006-03-01.paginators.json",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./_iter-create": [
+    {
+      "id": "j2DC",
+      "name": "./node_modules/core-js/library/modules/_iter-create.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./urlListener": [
+    {
+      "id": "jHS0",
+      "name": "./node_modules/@aws-amplify/auth/lib/urlListener.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./service": [
+    {
+      "id": "jNZN",
+      "name": "./node_modules/aws-sdk/lib/service.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./cancel/CancelToken": [
+    {
+      "id": "jfS+",
+      "name": "./node_modules/axios/lib/cancel/CancelToken.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./_descriptors": [
+    {
+      "id": "jmDH",
+      "name": "./node_modules/core-js/library/modules/_descriptors.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./_is-array": [
+    {
+      "id": "kAMH",
+      "name": "./node_modules/core-js/library/modules/_is-array.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./_redefine": [
+    {
+      "id": "kTiW",
+      "name": "./node_modules/core-js/library/modules/_redefine.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "ieee754": [
+    {
+      "id": "kVK+",
+      "name": "./node_modules/ieee754/index.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./decode": [
+    {
+      "id": "kd2E",
+      "name": "./node_modules/querystring-es3/decode.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "next-server/dist/lib/mitt": [
+    {
+      "id": "kiME",
+      "name": "./node_modules/next-server/dist/lib/mitt.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./_object-assign": [
+    {
+      "id": "kwZ1",
+      "name": "./node_modules/core-js/library/modules/_object-assign.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./MqttOverWSProvider": [
+    {
+      "id": "l9Ib",
+      "name": "./node_modules/@aws-amplify/pubsub/lib/Providers/MqttOverWSProvider.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./FacebookOAuth": [
+    {
+      "id": "l9Po",
+      "name": "./node_modules/@aws-amplify/core/lib/OAuthHelper/FacebookOAuth.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "../../modules/es6.object.create": [
+    {
+      "id": "lCc8",
+      "name": "./node_modules/core-js/library/modules/es6.object.create.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "@aws-amplify/auth": [
+    {
+      "id": "lJH/",
+      "name": "./node_modules/@aws-amplify/auth/lib/index.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "../../clients/cognitoidentity": [
+    {
+      "id": "lKDQ",
+      "name": "./node_modules/aws-sdk/clients/cognitoidentity.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "crypto-js/sha256": [
+    {
+      "id": "lPiR",
+      "name": "./node_modules/crypto-js/sha256.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "graphql-tag": [
+    {
+      "id": "lTCR",
+      "name": "./node_modules/graphql-tag/src/index.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "../modules/core.is-iterable": [
+    {
+      "id": "ldVq",
+      "name": "./node_modules/core-js/library/modules/core.is-iterable.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "@babel/runtime-corejs2/regenerator": [
+    {
+      "id": "ln6h",
+      "name": "./node_modules/@babel/runtime-corejs2/regenerator/index.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "../jsutils/invariant": [
+    {
+      "id": "loJQ",
+      "name": "./node_modules/@aws-amplify/api/node_modules/graphql/jsutils/invariant.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./runtime": [
+    {
+      "id": "ls82",
+      "name": "./node_modules/regenerator-runtime/runtime.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./dist/lib/head": [
+    {
+      "id": "m/Pd",
+      "name": "./node_modules/next-server/dist/lib/head.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./split-message": [
+    {
+      "id": "m2wi",
+      "name": "./node_modules/aws-sdk/lib/event-stream/split-message.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./escape-attribute": [
+    {
+      "id": "m5lJ",
+      "name": "./node_modules/aws-sdk/lib/xml/escape-attribute.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./lib/browser_loader": [
+    {
+      "id": "md97",
+      "name": "./node_modules/aws-sdk/lib/browser_loader.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "../utils/MethodEmbed": [
+    {
+      "id": "mfQQ",
+      "name": "./node_modules/@aws-amplify/analytics/lib/utils/MethodEmbed.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./_object-gops": [
+    {
+      "id": "mqlF",
+      "name": "./node_modules/core-js/library/modules/_object-gops.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "tslib": [
+    {
+      "id": "mrSG",
+      "name": "./node_modules/tslib/tslib.es6.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./_validate-collection": [
+    {
+      "id": "n3ko",
+      "name": "./node_modules/core-js/library/modules/_validate-collection.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./int64": [
+    {
+      "id": "n4Yq",
+      "name": "./node_modules/aws-sdk/lib/event-stream/int64.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./../helpers/btoa": [
+    {
+      "id": "n6bm",
+      "name": "./node_modules/axios/lib/helpers/btoa.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./dist/client/router": [
+    {
+      "id": "nOHt",
+      "name": "./node_modules/next/dist/client/router.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "../apis/runtime.lex-2016-11-28.min.json": [
+    {
+      "id": "nSXJ",
+      "name": "./node_modules/aws-sdk/apis/runtime.lex-2016-11-28.min.json",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./EventTracker": [
+    {
+      "id": "nY1G",
+      "name": "./node_modules/@aws-amplify/analytics/lib/trackers/EventTracker.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "punycode": [
+    {
+      "id": "nYho",
+      "name": "./node_modules/punycode/punycode.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "../../modules/es6.object.define-properties": [
+    {
+      "id": "nZgG",
+      "name": "./node_modules/core-js/library/modules/es6.object.define-properties.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./model/shape": [
+    {
+      "id": "nyFZ",
+      "name": "./node_modules/aws-sdk/lib/model/shape.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "../../modules/es6.object.assign": [
+    {
+      "id": "o8NH",
+      "name": "./node_modules/core-js/library/modules/es6.object.assign.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "../apis/pinpoint-2016-12-01.min.json": [
+    {
+      "id": "oEGY",
+      "name": "./node_modules/aws-sdk/apis/pinpoint-2016-12-01.min.json",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./browserHashUtils": [
+    {
+      "id": "oGmC",
+      "name": "./node_modules/aws-sdk/lib/browserHashUtils.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./_object-create": [
+    {
+      "id": "oVml",
+      "name": "./node_modules/core-js/library/modules/_object-create.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "core-js/library/fn/json/stringify": [
+    {
+      "id": "oh+g",
+      "name": "./node_modules/core-js/library/fn/json/stringify.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./_for-of": [
+    {
+      "id": "oioR",
+      "name": "./node_modules/core-js/library/modules/_for-of.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "iterall": [
+    {
+      "id": "okRa",
+      "name": "./node_modules/@aws-amplify/api/node_modules/iterall/index.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "../core-js/array/is-array": [
+    {
+      "id": "p0XB",
+      "name": "./node_modules/@babel/runtime-corejs2/core-js/array/is-array.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "js-cookie": [
+    {
+      "id": "p46w",
+      "name": "./node_modules/js-cookie/src/js.cookie.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./AWSAppSyncProvider": [
+    {
+      "id": "p5Sw",
+      "name": "./node_modules/@aws-amplify/pubsub/lib/Providers/AWSAppSyncProvider.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./lib/Observable.js": [
+    {
+      "id": "p7JZ",
+      "name": "./node_modules/zen-observable/lib/Observable.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "../../core-js/object/keys": [
+    {
+      "id": "pLtp",
+      "name": "./node_modules/@babel/runtime-corejs2/core-js/object/keys.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./Amplify": [
+    {
+      "id": "pUHq",
+      "name": "./node_modules/@aws-amplify/core/lib/Amplify.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "../core-js/reflect/construct": [
+    {
+      "id": "pbKT",
+      "name": "./node_modules/@babel/runtime-corejs2/core-js/reflect/construct.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./trackers": [
+    {
+      "id": "psjy",
+      "name": "./node_modules/@aws-amplify/analytics/lib/trackers/index.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "react": [
+    {
+      "id": "q1tI",
+      "name": "./node_modules/react/index.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./_microtask": [
+    {
+      "id": "q6LJ",
+      "name": "./node_modules/core-js/library/modules/_microtask.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "../vendor/dom-utils": [
+    {
+      "id": "qFW6",
+      "name": "./node_modules/@aws-amplify/analytics/lib/vendor/dom-utils/index.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./cjs/react-is.production.min.js": [
+    {
+      "id": "qT12",
+      "name": "./node_modules/react-is/cjs/react-is.production.min.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    },
+    {
+      "id": "tKGp",
+      "name": "./node_modules/react-apollo/node_modules/react-is/cjs/react-is.production.min.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "core-js/library/fn/reflect/construct": [
+    {
+      "id": "qijr",
+      "name": "./node_modules/core-js/library/fn/reflect/construct.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "../jsutils/inspect": [
+    {
+      "id": "rWdj",
+      "name": "./node_modules/graphql/jsutils/inspect.mjs",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./_collection": [
+    {
+      "id": "raTm",
+      "name": "./node_modules/core-js/library/modules/_collection.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./_property-desc": [
+    {
+      "id": "rr1i",
+      "name": "./node_modules/core-js/library/modules/_property-desc.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./resource_waiter": [
+    {
+      "id": "rt19",
+      "name": "./node_modules/aws-sdk/lib/resource_waiter.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "querystring": [
+    {
+      "id": "s4NR",
+      "name": "./node_modules/querystring-es3/index.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./Providers/AWSS3Provider": [
+    {
+      "id": "s7/x",
+      "name": "./node_modules/@aws-amplify/storage/lib/Providers/AWSS3Provider.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "@babel/runtime-corejs2/helpers/esm/createClass": [
+    {
+      "id": "sLSF",
+      "name": "./node_modules/@babel/runtime-corejs2/helpers/esm/createClass.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./_iter-call": [
+    {
+      "id": "sNwI",
+      "name": "./node_modules/core-js/library/modules/_iter-call.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "../s3/managed_upload": [
+    {
+      "id": "sqCk",
+      "name": "./node_modules/aws-sdk/lib/s3/managed_upload.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./Logger": [
+    {
+      "id": "t5A6",
+      "name": "./node_modules/@aws-amplify/core/lib/Logger/index.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./event_listeners": [
+    {
+      "id": "t6tr",
+      "name": "./node_modules/aws-sdk/lib/event_listeners.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./_to-length": [
+    {
+      "id": "tEej",
+      "name": "./node_modules/core-js/library/modules/_to-length.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./adapters/xhr": [
+    {
+      "id": "tQ2B",
+      "name": "./node_modules/axios/lib/adapters/xhr.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "aws-sdk/clients/s3": [
+    {
+      "id": "tegk",
+      "name": "./node_modules/aws-sdk/clients/s3.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "buffer/": [
+    {
+      "id": "tjlA",
+      "name": "./node_modules/buffer/index.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "@babel/runtime-corejs2/core-js/set": [
+    {
+      "id": "ttDY",
+      "name": "./node_modules/@babel/runtime-corejs2/core-js/set.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./credentials/credential_provider_chain": [
+    {
+      "id": "u8bp",
+      "name": "./node_modules/aws-sdk/lib/credentials/credential_provider_chain.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "regenerator-runtime": [
+    {
+      "id": "u938",
+      "name": "./node_modules/regenerator-runtime/runtime-module.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./_library": [
+    {
+      "id": "uOPS",
+      "name": "./node_modules/core-js/library/modules/_library.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "aws-amplify": [
+    {
+      "id": "uZRx",
+      "name": "./node_modules/aws-amplify/lib/index.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./to-buffer": [
+    {
+      "id": "v+tU",
+      "name": "./node_modules/aws-sdk/lib/event-stream/to-buffer.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./_array-species-create": [
+    {
+      "id": "v6xn",
+      "name": "./node_modules/core-js/library/modules/_array-species-create.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./_user-agent": [
+    {
+      "id": "vBP9",
+      "name": "./node_modules/core-js/library/modules/_user-agent.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "axios": [
+    {
+      "id": "vDqi",
+      "name": "./node_modules/axios/index.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./credentials/saml_credentials": [
+    {
+      "id": "vFq9",
+      "name": "./node_modules/aws-sdk/lib/credentials/saml_credentials.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "@babel/runtime-corejs2/helpers/esm/defineProperty": [
+    {
+      "id": "vYYK",
+      "name": "./node_modules/@babel/runtime-corejs2/helpers/esm/defineProperty.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "@aws-amplify/ui": [
+    {
+      "id": "vYnt",
+      "name": "./node_modules/@aws-amplify/ui/dist/aws-amplify-ui.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./cjs/react.production.min.js": [
+    {
+      "id": "viRO",
+      "name": "./node_modules/react/cjs/react.production.min.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./setPrototypeOf": [
+    {
+      "id": "vjea",
+      "name": "./node_modules/@babel/runtime-corejs2/helpers/setPrototypeOf.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./_object-gopd": [
+    {
+      "id": "vwuL",
+      "name": "./node_modules/core-js/library/modules/_object-gopd.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./ConsoleLogger": [
+    {
+      "id": "vxDe",
+      "name": "./node_modules/@aws-amplify/core/lib/Logger/ConsoleLogger.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./../helpers/parseHeaders": [
+    {
+      "id": "w0Vi",
+      "name": "./node_modules/axios/lib/helpers/parseHeaders.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./es6.array.iterator": [
+    {
+      "id": "w2d+",
+      "name": "./node_modules/core-js/library/modules/es6.array.iterator.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./browserSha1": [
+    {
+      "id": "w3cK",
+      "name": "./node_modules/aws-sdk/lib/browserSha1.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./_object-keys": [
+    {
+      "id": "w6GO",
+      "name": "./node_modules/core-js/library/modules/_object-keys.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "@aws-amplify/core": [
+    {
+      "id": "wAFy",
+      "name": "./node_modules/@aws-amplify/core/lib/index.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./AWSKinesisProvider": [
+    {
+      "id": "wIoC",
+      "name": "./node_modules/@aws-amplify/analytics/lib/Providers/AWSKinesisProvider.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./SessionTracker": [
+    {
+      "id": "wJn9",
+      "name": "./node_modules/@aws-amplify/analytics/lib/trackers/SessionTracker.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./_bind": [
+    {
+      "id": "wYmx",
+      "name": "./node_modules/core-js/library/modules/_bind.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "../modules/es6.object.to-string": [
+    {
+      "id": "wgeU",
+      "name": "./node_modules/core-js/library/modules/es6.object.to-string.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./xml/builder": [
+    {
+      "id": "wk5b",
+      "name": "./node_modules/aws-sdk/lib/xml/builder.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./transformData": [
+    {
+      "id": "xAGQ",
+      "name": "./node_modules/axios/lib/core/transformData.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./utils": [
+    {
+      "id": "xTJ+",
+      "name": "./node_modules/axios/lib/utils.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./browserMd5": [
+    {
+      "id": "xWtM",
+      "name": "./node_modules/aws-sdk/lib/browserMd5.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "../lib/services/sts": [
+    {
+      "id": "xn+8",
+      "name": "./node_modules/aws-sdk/lib/services/sts.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "../modules/es7.set.of": [
+    {
+      "id": "xvv9",
+      "name": "./node_modules/core-js/library/modules/es7.set.of.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./Utils": [
+    {
+      "id": "xwNN",
+      "name": "./node_modules/@aws-amplify/cache/lib/Utils/index.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./BrowserStorageCache": [
+    {
+      "id": "yBgO",
+      "name": "./node_modules/@aws-amplify/cache/lib/BrowserStorageCache.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./helpers/normalizeHeaderName": [
+    {
+      "id": "yK9s",
+      "name": "./node_modules/axios/lib/helpers/normalizeHeaderName.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./../webpack/buildin/global.js": [
+    {
+      "id": "yLpj",
+      "name": "./node_modules/webpack/buildin/global.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "../../core-js/is-iterable": [
+    {
+      "id": "yLu3",
+      "name": "./node_modules/@babel/runtime-corejs2/core-js/is-iterable.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./cjs/react-dom.production.min.js": [
+    {
+      "id": "yl30",
+      "name": "./node_modules/react-dom/cjs/react-dom.production.min.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./browserSha256": [
+    {
+      "id": "ynUr",
+      "name": "./node_modules/aws-sdk/lib/browserSha256.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "../../modules/_wks-ext": [
+    {
+      "id": "zLkG",
+      "name": "./node_modules/core-js/library/modules/_wks-ext.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./_promise-resolve": [
+    {
+      "id": "zXhZ",
+      "name": "./node_modules/core-js/library/modules/_promise-resolve.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./protocol/query": [
+    {
+      "id": "zfQR",
+      "name": "./node_modules/aws-sdk/lib/protocol/query.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./_object-sap": [
+    {
+      "id": "zn7N",
+      "name": "./node_modules/core-js/library/modules/_object-sap.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
+    }
+  ],
+  "./lib/axios": [
+    {
+      "id": "zuR4",
+      "name": "./node_modules/axios/lib/axios.js",
+      "file": "static/chunks/commons.91f8121f2949eb0a34d2.js",
+      "publicPath": "static/chunks/commons.91f8121f2949eb0a34d2.js"
     }
   ]
 }

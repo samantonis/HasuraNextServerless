@@ -28,11 +28,13 @@ class Login extends Component {
     Auth.signIn(this.state.username, this.state.password)
       .then(data => {
         this.props.client.writeData({
-          data: { ...data.attributes }
+          data: { username : data.username, ...data.attributes }
         });
         Router.push("/");
       })
-      .catch(err => console.log("error signing in! :", err));
+      .catch(err => this.setState({
+        error : err
+    }));
   };
 
   render() {

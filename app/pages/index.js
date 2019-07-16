@@ -8,7 +8,7 @@ const Home = props => (
     <p>Steps to test the functionality:</p>
 
     <ol>
-      <li>Click signup to register.</li>
+      <li>Click signup to register.(don't forget to confirm with the verification key that is mailed to you</li>
       <li>
         login
       </li>
